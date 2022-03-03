@@ -1,0 +1,13 @@
+var cantidadDeVentanasEnMiCasa = 9;
+var soyHumano = true;
+var miGustoDePizzaPreferido = "Hawaiana";
+    console.log("Ventanas: ",cantidadDeVentanasEnMiCasa,"\tSoy Humano: ",soyHumano,"\tMi Gusto Preferido de Pizza Es: ",miGustoDePizzaPreferido);
+    console.log("\nVariable unica\n");
+var vUn= false;
+    console.log(vUn);
+var vUn= 'Hola';
+    console.log(vUn);
+var vUn= 0;
+    console.log(vUn);
+var vUn= 'Minions';
+    console.log(vUn);
